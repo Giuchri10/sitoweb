@@ -1,0 +1,29 @@
+.tit{
+    text-align: center;
+
+}
+
+body{
+    background-image:url('Colline.jpg');
+    background-size: cover;
+    margin-top: 35px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#titolo{
+    color:white
+}
+
+
+
+
+#nome{
+    background-color: rgba(255, 255, 0, 0.829);
+    color: black;
+    font-size: large;
+}
+
+#testo{
+    background-color:rgba(141, 172, 141, 0.705);
+    color: black;
+}
